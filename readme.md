@@ -1,4 +1,4 @@
-*none of the following multiplayer features will work if you are not connected to the same wifi*
+*not currently compatible with multiplayer*
 
 *only rom provided will be from the repository releases tab in .zip format*
 
