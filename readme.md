@@ -12,17 +12,17 @@ Click the menu button (☰ or “Menu”) on the screen
 
 This opens the emulator control panel
 
-2. Load Your GBA ROM
+2. Load Your ROM of choice
 
 Click Load ROM
 
-Select your .gba file from your computer
+Select your folder or .zip file from your computer
 
 Example files:
 
-Pokemon Emerald.gba
+Pokemon Emerald.zip
 
-Metroid Fusion.gba
+Legend of Zelda Ocarina of Time.zip
 
 The game will not start yet if the core isn’t chosen
 
